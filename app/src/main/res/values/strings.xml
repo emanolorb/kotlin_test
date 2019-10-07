@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">kotlin test</string>
+    <string name="texto_grados">23</string>
+    <string name="texto_ciudad">Ciudad de Mexico</string>
+    <string name="texto_clima">Soleado</string>
+    <string name="texto_bienvenida">Bienvenido!!!</string>
+    <string name="texto_boton_mexico">Clima CDMX</string>
+    <string name="texto_boton_berlin">Clima Berlin</string>
 </resources>
